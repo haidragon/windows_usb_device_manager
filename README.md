@@ -1,6 +1,6 @@
 # windows_usb_device_manager
-一个用于枚举、禁用、启用和重置 USB 设备的简单 Windows 工具（通过设备实例 ID 操作）。
-A simple Windows tool to enumerate, disable, enable, and reset USB devices by their Device Instance ID. [English Description](./README_EN.md)
+* 一个用于枚举、禁用、启用和重置 USB 设备的简单 Windows 工具（通过设备实例 ID 操作）。
+* A simple Windows tool to enumerate, disable, enable, and reset USB devices by their Device Instance ID. [English Description](./README_EN.md)
 
 
 # Windows设备管理器
