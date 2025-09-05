@@ -1,5 +1,5 @@
 # Windows Device Manager
-
+* A simple Windows tool to enumerate, disable, enable, and reset USB devices by their Device Instance ID.
 # by haidragon  
 # Public Account: Safety Dog's Self-Cultivation (安全狗的自我修养) [中文说明文档](./README.md)
 # vx:2207344074
