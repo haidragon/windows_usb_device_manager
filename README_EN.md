@@ -1,7 +1,7 @@
 # Windows Device Manager
 
 # by haidragon  
-# Public Account: Safety Dog's Self-Cultivation (安全狗的自我修养)
+# Public Account: Safety Dog's Self-Cultivation (安全狗的自我修养) [中文说明文档](./README.md)
 # vx:2207344074
 # github.com/haidragon
 # bilibili:haidragonx
