@@ -6,7 +6,7 @@
 # github.com/haidragon
 # bilibili:haidragonx
 # http://securitytech.cc Official Website
-To learn more about stable commercial-grade solutions, USB security, and DLP development, [please click](https://github.com/haidragon/haidragon.github.io/blob/main/windows/img/usb/windows%E4%B8%8Ausb%E8%BF%87%E6%BB%A4%E4%B8%8E%E9%80%8F%E4%BC%A0(%E8%99%9A%E6%8B%9F%E5%8C%96)%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.png).
+# To learn more about stable commercial-grade solutions, USB security, and DLP development, [please click](https://github.com/haidragon/haidragon.github.io/blob/main/windows/img/usb/windows%E4%B8%8Ausb%E8%BF%87%E6%BB%A4%E4%B8%8E%E9%80%8F%E4%BC%A0(%E8%99%9A%E6%8B%9F%E5%8C%96)%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.png).
 
 ## Compilation
 
